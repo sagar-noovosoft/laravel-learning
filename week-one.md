@@ -7,5 +7,12 @@ Follow laravel documentation,
 - Valet - https://laravel.com/docs/7.x/valet
 - Deployment - https://laravel.com/docs/7.x/deployment
 
-## Exercies
+# Architecture Concepts
+- Request Lifecycle - https://laravel.com/docs/7.x/lifecycle
+- Service Container - https://laravel.com/docs/7.x/container
+- Service Providers - https://laravel.com/docs/7.x/providers
+- Facades - https://laravel.com/docs/7.x/facades
+- Contracts - https://laravel.com/docs/7.x/contracts
+
+## Exercie
 - Create Laravel project and get laravel home page without any error.
