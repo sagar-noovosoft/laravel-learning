@@ -6,3 +6,6 @@ Follow laravel documentation,
 - Homestead - https://laravel.com/docs/7.x/homestead
 - Valet - https://laravel.com/docs/7.x/valet
 - Deployment - https://laravel.com/docs/7.x/deployment
+
+## Exercies
+- Create Laravel project and get laravel home page without any error.
