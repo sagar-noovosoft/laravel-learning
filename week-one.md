@@ -14,5 +14,5 @@ Follow laravel documentation,
 - Facades - https://laravel.com/docs/7.x/facades
 - Contracts - https://laravel.com/docs/7.x/contracts
 
-## Exercie
+## Exercise
 - Create Laravel project and get laravel home page without any error.
